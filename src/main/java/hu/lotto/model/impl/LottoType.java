@@ -1,5 +1,6 @@
 package hu.lotto.model.impl;
 
-public class LottoType {
-
+public enum LottoType {
+    Five,
+    Six
 }
